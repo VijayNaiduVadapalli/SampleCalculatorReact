@@ -2,7 +2,7 @@
     comsole.log("this is vijay");
 })();
 
-
+//commented in typescript file example
 
 (function (){
     var userName="Mark";
